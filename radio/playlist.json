@@ -1,6 +1,60 @@
 [
   {
     "id": "song1",
+    "title": "Enthaha Cheluvu",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Enthaha%20Cheluvu.mp3"
+  },
+  {
+    "id": "song2",
+    "title": "Ganapathi Sthuthi",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Ganapathi%20Sthuthi.mp3"
+  },
+  {
+    "id": "song3",
+    "title": "Harivaraasanam",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Harivaraasanam.mp3"
+  },
+  {
+    "id": "song4",
+    "title": "Kari Mugila Baaninalli",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Kari%20Mugila%20Baaninalli.mp3"
+  },
+  {
+    "id": "song5",
+    "title": "Maralu Madikondeyalla",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Maralu%20Madikondeyalla.mp3"
+  },
+  {
+    "id": "song6",
+    "title": "Mudadinda Ninna",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Mudadinda%20Ninna.mp3"
+  },
+  {
+    "id": "song7",
+    "title": "Munisu Tharave Mugudhe",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Munisu%20Tharave%20Mugudhe.mp3"
+  },
+  {
+    "id": "song8",
+    "title": "Neela Gaganadholu",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Neela%20Gaganadholu.mp3"
+  },
+  {
+    "id": "song9",
+    "title": "Nirata Vaadidharu",
+    "artistName": "Yakshagana",
+    "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/Nirata%20Vaadidharu.mp3"
+  },
+  {
+    "id": "song10",
     "title": "taani tandana",
     "artistName": "Yakshagana",
     "url": "https://raw.githubusercontent.com/SurajKulal1/yakshagana-radio-assets/main/radio/songs/taani%20tandana.mp3"
